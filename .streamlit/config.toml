@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FF0000"  # Vermelho para botões e componentes ativos
+backgroundColor = "#000000"  # Preto para o fundo da página
+secondaryBackgroundColor = "#333333"  # Um tom mais claro de preto para elementos secundários
+textColor = "#FFFFFF"  # Branco para o texto, para contraste com o fundo escuro
+font = "sans serif"  # Uma fonte sans serif para um visual limpo e moderno
